@@ -166,9 +166,4 @@ which was call cancel again, before it the address set to False in registeredGue
         only release the lock by setting it to false after the call is complete.
         On the re-entry attempt, the lock will be set to true and it will fail.
 
-Collaboration
-1. Did you receive any help whatsoever from anyone in solving this assignment? If so, include full details.
-2. Did you give any help whatsoever to anyone in solving this assignment? If so, include full details.
-3. Did you find or come across or use any resources outside of lecture material to complete this assignment? If so, include full details.
-Nah, nah, solidity docs
 */
